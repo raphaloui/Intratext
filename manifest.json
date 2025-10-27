@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Migliora Script",
+  "name": "Miglioratore e Riassuntore di Trascrizioni",
+  "description": "Un'applicazione per migliorare una trascrizione di testo grezza e generare un riassunto tramite IA.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}
